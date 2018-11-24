@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  CVAsiignment1.cpp
+c:\users\karim\source\repos\cvasiignment1\cvasiignment1\cvasiignment1.cpp(159): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\karim\source\repos\cvasiignment1\cvasiignment1\cvasiignment1.cpp(162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CVAsiignment1.vcxproj -> C:\Users\karim\source\repos\CVAsiignment1\x64\Debug\CVAsiignment1.exe
